@@ -1,0 +1,22 @@
+{
+  "name": "delivery-page",
+  "version": "1.0.0",
+  "description": "Delivery Website Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map ./assets/scss/styles.scss ./assets/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysfsam/Delivery-Landing-Page.git"
+  },
+  "author": "Samuel Fanawopo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysfsam/Delivery-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/ysfsam/Delivery-Landing-Page#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
